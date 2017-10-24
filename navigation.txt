@@ -3,6 +3,6 @@ Second item
 ---------------------
 Item below separator
 ---------------------
-TODO: Preparation for toggling!
+Ready for toggling!
 
 
