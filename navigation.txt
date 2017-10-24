@@ -2,4 +2,7 @@ First navigation item
 Second item
 ---------------------
 Item below separator
+---------------------
+TODO: Preparation for toggling!
+
 
